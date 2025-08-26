@@ -1,1 +1,2 @@
-# amyshi777.github.io
+Amy Shi
+SI 338 Fall 2025
